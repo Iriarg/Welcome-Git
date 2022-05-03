@@ -1,0 +1,16 @@
+body {
+    background-color: darkturquoise;
+    font-family: Verdana;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-content {
+    padding: 1.5em;
+}
+
